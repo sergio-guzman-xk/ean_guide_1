@@ -1,4 +1,4 @@
-package com.company.Fraccionario;
+package com.company.actividad1.Fraccionario;
 
 public class Fraccionario {
 

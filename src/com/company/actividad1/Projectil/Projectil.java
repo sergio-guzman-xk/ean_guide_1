@@ -1,4 +1,4 @@
-package com.company.Projectil;
+package com.company.actividad1.Projectil;
 
 public class Projectil {
 

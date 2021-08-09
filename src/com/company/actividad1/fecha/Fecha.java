@@ -1,4 +1,4 @@
-package com.company.fecha;
+package com.company.actividad1.fecha;
 
 public class Fecha {
 

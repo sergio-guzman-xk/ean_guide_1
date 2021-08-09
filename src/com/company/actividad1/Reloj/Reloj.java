@@ -1,4 +1,4 @@
-package com.company.Reloj;
+package com.company.actividad1.Reloj;
 
 public class Reloj {
 

@@ -1,4 +1,4 @@
-package com.company.Tienda;
+package com.company.actividad1.Tienda;
 
 public class Tienda {
 

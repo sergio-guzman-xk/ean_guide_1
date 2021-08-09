@@ -1,4 +1,4 @@
-package com.company.Universidad;
+package com.company.actividad1.Universidad;
 
 import java.util.Date;
 
